@@ -4,17 +4,17 @@
 
 ## Create an entire ETL process in a database & a Power BI dashboard to utilize the Customer Data and achieve below goals:
 
-Visualize & Analyse Customer Data at below levels
-Demographic
-Geographic
-Payment & Account Info
-Services
-Study Churner Profile & Identify Areas for Implementing Marketing Campaigns
-Identify a Method to Predict Future Churners
+<ul><li>Visualize & Analyse Customer Data at below levels</li>
+<li>Demographic</li>
+<li>Geographic</li>
+<li>Payment & Account Info</li>
+<li>Services</li>
+<li>Study Churner Profile & Identify Areas for Implementing Marketing Campaigns</li>
+<li>Identify a Method to Predict Future Churners</li></ul>
  
 
 ## Metrics Required
 
--- Total Customers
--- Total Churn & Churn Rate
--- New Joiners
+<ul><li>Total Customers</li>
+<li>Total Churn & Churn Rate</li>
+<li>New Joiners</li></ul>
