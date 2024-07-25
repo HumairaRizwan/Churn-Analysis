@@ -15,6 +15,6 @@ Identify a Method to Predict Future Churners
 
 ## Metrics Required
 
-Total Customers
-Total Churn & Churn Rate
-New Joiners
+-- Total Customers
+-- Total Churn & Churn Rate
+-- New Joiners
