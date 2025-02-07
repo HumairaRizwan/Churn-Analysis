@@ -27,3 +27,8 @@ In today's competitive business environment, retaining customers is crucial for 
 <ul><li>Total Customers</li>
 <li>Total Churn & Churn Rate</li>
 <li>New Joiners</li></ul>
+
+![image](https://github.com/user-attachments/assets/366f0445-5756-4ede-ab6d-dab00cea3c3f)
+![image](https://github.com/user-attachments/assets/946e8791-b943-444d-b679-d3d716855fd5)
+
+
